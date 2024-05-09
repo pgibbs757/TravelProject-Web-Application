@@ -11,3 +11,5 @@ Provide Personalized Recommendations
 , Provide Real-Time Updates
 , Encourage Social Integration
 , Support Local Businesses
+
+Click here to view the ER Diagram
